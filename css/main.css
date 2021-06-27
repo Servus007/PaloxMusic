@@ -1,12 +1,12 @@
-/* 
+/*
 
 Mousiqua - Music Band and Musician Bootstrap 4 Template
-Copyright 2018  www.mutationmedia.net 
-Created by : mutationthemes  
+Copyright 2018  www.mutationmedia.net
+Created by : mutationthemes
 
 */
 
-/* Table of Content ================================================== 
+/* Table of Content ==================================================
 
 1.Preloader
 2.Site wrapper
@@ -20,7 +20,7 @@ Created by : mutationthemes
 10.News section
 11.Contact section
 12.Footer section
-13.Mediaqueries 
+13.Mediaqueries
 
 
 
@@ -80,19 +80,19 @@ Created by : mutationthemes
          stroke: #d0343a;
     }
      20% {
-         stroke: #ff5252;
+         stroke: #D0343A;
     }
      40% {
          stroke: #d0343a;
     }
      60% {
-         stroke: #ff5252;
+         stroke: #D0343A;
     }
      80% {
          stroke: #d0343a;
     }
      100% {
-         stroke: #ff5252;
+         stroke: #D0343A;
     }
 }
  @keyframes spinner-dash {
@@ -163,7 +163,7 @@ Created by : mutationthemes
      position: fixed;
      width: 3.2rem;
      height: 3.2rem;
-     background: #ff5252;
+     background: #D0343A;
      text-align: center;
      right: 2.875rem;
      bottom: 3.6875rem;
@@ -219,7 +219,7 @@ Created by : mutationthemes
 }
  .slider .slides li {
      background-size: cover;
-     
+
 }
  .header.default {
      left: 0;
@@ -293,7 +293,7 @@ Created by : mutationthemes
      -moz-transform: translate(0px, -4px) rotate(0deg);
 }
  .mobile-but .lines:after, .mobile-but .lines:before {
-     background: #ff5252;
+     background: #D0343A;
 }
  .toggle-mobile-but.active .mobile-but .lines:after {
      transform: translate(0px, -1px) rotate(45deg);
@@ -318,7 +318,7 @@ Created by : mutationthemes
 }
 
 .main-nav ul li i{
-    color: #ff5252;
+    color: #D0343A;
 }
 
  .main-nav ul li.block-helper:last-child {
@@ -333,7 +333,7 @@ Created by : mutationthemes
 }
  .main-nav li.block-helper span.icon, .main-nav li.block-helper a{
      cursor: pointer;
-     color: #ff5252 !important;
+     color: #D0343A !important;
      font-size: .9375rem;
      opacity: 1 !important;
 }
@@ -346,16 +346,16 @@ Created by : mutationthemes
      margin-left: 0;
 }
  .block-helper li a {
-     color: #ff5252;
+     color: #D0343A;
 }
  .header.switched-header .main-nav li a {
      color: #949494;
-     
+
 }
 
 
  .header.switched-header .block-helper li a {
-     color: #ff5252;
+     color: #D0343A;
      opacity: 1;
 }
 
@@ -383,10 +383,10 @@ Created by : mutationthemes
 }
  .back-rect {
      border: 10px solid transparent;
-     -moz-border-image: -moz-linear-gradient(top, #d0343a 0%, #ff5252 100%);
-     -ms-border-image: -ms-linear-gradient(top, #d0343a 0%, #ff5252 100%);
-     -webkit-border-image: -webkit-linear-gradient(top, #d0343a 0%, #ff5252 100%);
-     border-image: linear-gradient(to bottom, #d0343a 0%, #ff5252 100%);
+     -moz-border-image: -moz-linear-gradient(top, #d0343a 0%, #D0343A 100%);
+     -ms-border-image: -ms-linear-gradient(top, #d0343a 0%, #D0343A 100%);
+     -webkit-border-image: -webkit-linear-gradient(top, #d0343a 0%, #D0343A 100%);
+     border-image: linear-gradient(to bottom, #d0343a 0%, #D0343A 100%);
      border-image-slice: 1;
      width: 17.25rem;
      height: 21.5625rem;
@@ -399,9 +399,9 @@ Created by : mutationthemes
 }
  .front-rect {
      border-right: 10px solid transparent;
-     -moz-border-image: -moz-linear-gradient(top, #d0343a 0%, #ff5252 100%);
-     -webkit-border-image: -webkit-linear-gradient(top, #ff3d49 0%, #ff5252 100%);
-     border-image: linear-gradient(to bottom, #d0343a 0%, #ff5252 100%);
+     -moz-border-image: -moz-linear-gradient(top, #d0343a 0%, #D0343A 100%);
+     -webkit-border-image: -webkit-linear-gradient(top, #ff3d49 0%, #D0343A 100%);
+     border-image: linear-gradient(to bottom, #d0343a 0%, #D0343A 100%);
      border-image-slice: 1;
      width: 17.25rem;
      height: 21.5625rem;
@@ -465,7 +465,7 @@ Created by : mutationthemes
      content: "";
      width: 100%;
      height: .245rem;
-     background: #ff5252;
+     background: #D0343A;
      bottom: 4px;
      left: 0;
      z-index: -1;
@@ -476,8 +476,8 @@ Created by : mutationthemes
 }
  .block-teaser{
      text-transform: uppercase;
-     border-top: 6px solid #ff5252;
-     border-bottom: 6px solid #ff5252;
+     border-top: 6px solid #D0343A;
+     border-bottom: 6px solid #D0343A;
      padding: 1.25rem 0;
 }
  .block-teaser p{
@@ -490,7 +490,7 @@ Created by : mutationthemes
      font-size: .9rem;
 }
  .countdown .counter-bg {
-    background: #ff5252;
+    background: #D0343A;
     padding: 20px 35px;
     display: inline-block;
     border-radius: 0.25rem;
@@ -591,11 +591,11 @@ Created by : mutationthemes
 }
  .block-tracklist .playlist li.playing:before{
      content: "\e8d8";
-     color: #ff5252;
+     color: #D0343A;
 }
  .block-tracklist .playlist li.playing.pause:before{
      content: "\e8d4";
-     color: #ff5252;
+     color: #D0343A;
 }
  span.selected, a.selected{
      color: #ffffff;
@@ -609,7 +609,7 @@ Created by : mutationthemes
      position: absolute;
      left: 0;
      bottom: 0;
-     background: #ff5252;
+     background: #D0343A;
      width: 100%;
      text-align: center;
      padding: 1.45rem 0;
@@ -667,7 +667,7 @@ Created by : mutationthemes
 }
 .border-dashed {
     padding: 8px;
-    background-image: repeating-linear-gradient(135deg, #ff5252, #ff5252 10px, #FFF 0px, #FFF 20px, #13181d 0px, #13181d 30px, #FFF 0px, #FFF 40px);
+    background-image: repeating-linear-gradient(135deg, #D0343A, #D0343A 10px, #FFF 0px, #FFF 20px, #13181d 0px, #13181d 30px, #FFF 0px, #FFF 40px);
 }
  .block-subscribe{
      position: relative;
@@ -805,17 +805,17 @@ Created by : mutationthemes
      .header .left-part {
           margin-left: 1.857rem;
      }
- 
+
      .header {
           background-color: #ffffff !important;
-          
+
      }
      .header .logo {
           margin-top: 0;
           color: #222222 !important;
      }
-     
-     
+
+
       .header .logo h2 {
           color: #222222 !important;
      }
@@ -864,14 +864,14 @@ Created by : mutationthemes
         padding: .2rem 0;
 
     }
-    
+
      .main-nav li a {
      color: #949494 !important;
 }
     .main-nav li:last-child a {
         padding-bottom: 0;
     }
-    
+
 
 
 .main-nav ul li.block-helper:last-child{
@@ -882,11 +882,11 @@ Created by : mutationthemes
     padding: 0;
 }
 
-    
+
 
 }
 
-  
+
 @media only screen and (min-device-width: 720px) and (max-device-width: 1280px) and (orientation: portrait) {
     input,
     textarea {
@@ -915,7 +915,7 @@ h1, .h1{
 h3, .h3{
      font-size: 1rem;
 }
-  
+
 }
 @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
     input,
@@ -984,7 +984,7 @@ h1.large{font-size: 4rem;}
     overflow-x: hidden;
     max-height: 400px;
     }
-    
+
     .hero .main-slider .slides li{height: 500px !important;}
 
 section.about .block-content.text-md-right, .block-album {margin-bottom: 1.875em;}
@@ -1023,7 +1023,7 @@ section.about .block-content.text-md-right, .block-album {margin-bottom: 1.875em
     }
 
 
-    
+
 
 
 }
@@ -1083,6 +1083,6 @@ section.about .block-content.text-md-right, .block-album {margin-bottom: 1.875em
      margin-top: 1rem;
     }
 
-    
+
 }
 /*End media queries*/

@@ -168,7 +168,7 @@ iframe {
     display: inline-block;
 }
 ::-moz-selection {
-    background: #ff5252;
+    background: #D0343A;
     color: #ffffff;
 }
 /* End reset & basics (Inspired by E. Meyers) */
@@ -211,7 +211,7 @@ h6,
     font-weight: 400;
     position: relative;
     letter-spacing: 2px;
-    
+
 }
 
 h1, .h1{
@@ -286,7 +286,7 @@ h1, .h1{
     content: "";
     width: 100%;
     height: .875rem;
-    background: #ff5252;
+    background: #D0343A;
     bottom: .775rem;
     left: 0;
 }
@@ -330,7 +330,7 @@ form{
 
 em {
     margin-bottom: .5rem;
-    
+
 }
 
 .w-93{
@@ -385,7 +385,7 @@ section,
 }
 
 .text-red {
-    color: #ff5252;
+    color: #D0343A;
 }
 
 
@@ -550,7 +550,7 @@ input[type="text"],
 }
 
 .border-2{
-    border-color:#ff5252 !important;
+    border-color:#D0343A !important;
 
 }
 
@@ -663,7 +663,7 @@ div[class*="col-"].gap-double-sm, .gap-double-sm {
     border-top: 1px solid rgba(59, 75, 91, 0.3)
 }
 .bg-red {
-    background: #ff5252;
+    background: #D0343A;
 }
 .bg-dark-blue {
     background: #13181d;
